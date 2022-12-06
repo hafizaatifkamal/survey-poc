@@ -1,4 +1,4 @@
-# Grow10x
+# SurveyPOC
 An add-on application that builds
 Surveys and preserves the survey stats. It can be
 associated with any react app.
