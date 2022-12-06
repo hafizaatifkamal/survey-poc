@@ -1,0 +1,22 @@
+# For backend 
+server/node_modules/
+server/.env
+server/.nyc_output/
+server/package-lock.json
+server/yarn.lock
+
+
+# For front-end
+client/node_modules/
+
+client/yarn.lock
+client/package-lock.json
+client/.pnp
+.pnp.js
+
+
+client/.DS_Store
+client/.env
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
